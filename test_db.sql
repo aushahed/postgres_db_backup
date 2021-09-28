@@ -38,6 +38,7 @@ ALTER TABLE public.employee OWNER TO postgres;
 
 COPY public.employee (name, id) FROM stdin;
 ashraf	1
+shahed	2
 \.
 
 
